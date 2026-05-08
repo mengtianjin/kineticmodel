@@ -1,5 +1,5 @@
 Project Overview
-This repository contains the models and data associated with our research on the pressure-dependent mass transport and reaction kinetics involved in the electrochemical reduction of carbon dioxide (CO2RR) to carbon monoxide (CO) 
+This repository contains the models and data associated with our research on the pressure-dependent mass transport and reaction kinetics involved in the electrochemical reduction of carbon dioxide (CO2RR)
 To elucidate the underlying mechanisms of high-pressure CO2RR, this project relies on two primary computational models: a Diffusion-Reaction Model and a Kinetic Model
 
 Diffusion Model
