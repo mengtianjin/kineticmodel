@@ -6,7 +6,7 @@ To elucidate the underlying mechanisms of high-pressure CO2RR, this project reli
 Diffusion Model
 The diffusion-reaction model built upon the Nernst-Planck equation to describe the transport of CO2 and ionic species to the cathode surface
 The model is used to simulate the local CO2, CO32- and HCO3- concentration and pH on the electrode surface as functions of applied cathode potential and pressure. 
-The bult concentration of these species should be calculated first
+The bulk concentration of these species should be calculated first
 The result will be used in following Kinetic model
 
 Kinetic Model
